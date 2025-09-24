@@ -1,437 +1,492 @@
 {
   "which": "vocals.wav",
   "result": {
-    "text": "I'm sorry, I'm already forgiven  You don't have to go and get it  Take the power you've been given  Don't you know that all of us are destined  When you're part of Stephen you're restless  And you're mine keeping you guessing  You don't know, no, no, it's okay  No, it's okay  This is why there won't be more making the most of  Find out no better words  One, two, one, two, one  How is the way through?  Well, get through anything  No, break it all your rules  Find the way through me  For you, love is over everything  This is what I believe  And no other love lies  Is the reason to lose  You don't have to turn on the beat  I think you said it  If you wanna find peace  You don't know, no, it's okay  You don't know, it's okay  You don't know, it's okay  When you're part of Stephen you're restless  I think you said it  I think you said it  I think you said it  I think you said it  If you wanna be as restless  You just messaged with the girl  And dressing them on my profession's  I just mean that I've never ever seen  I let you in  All of us together, rom and tavern  Good be a world leader or just  We still think it either way  The way and by your own  The world's about to find it  This is what I believe for me  In the most you find out no better words  Come to me, now it's the way to  Well, get to anything  Break it on your rules  Break the more we can make for you  Love is over everything  This is what I believe  And no other love lies  Is the reason to lose  Is the reason to lose  You don't have to turn on the beat  I think you said it  You wanna find me, please  There's nothing inside your soul  Only one song, please  I think it's special  Don't you love baby  I think it's special  I think it's special  I think it's special",
+    "text": "Yeah, I just know you already forgive me  You don't have to go and get it  Take the power you've been given  Don't you know that all of us are destined  When you're hostile and you're restless  And you're mind keeping you guessing  You don't know what you get  Know what you get  This is for the people  Making the most you  Find out no better words  One, two, one, two, one  How is the way through?  Well, get through anything  Oh, breaking all the rules  I need money  May for you  Love is over everything  This is what I believe  And over the love lies  It's a reason you insist  You know that I'm trying to be  I think you said  You brought a fine piece  And you know you're so concerned  In your cell  Everybody wants something else  I think you said  I think you said  I think you said  I think you said  You must be a specialist  There's a message  Where they got me crushing them  When my profession is  I've just been a lover  Ever since I let you in  All of us together  I'm in heaven  Good near  World leader  Or just when we still need it  Either way  The way you fight around  The world's about to fight  This is for the people  Making the most you  Find out no better words  One, two, one, two  How is the way through?  We'll get to anything  Breaking all the rules  Find the way we made for you  Love is over everything  This is what I believe  And over the love lies  It's a reason you insist  You know that I'm trying to be  I think you said  You brought a fine piece  You should look inside  You're still a boy  I think you said  I think you said  I think you said  Baby  I think you said  I think you said  I think you said",
     "segments": [
       {
-        "start": 2.4399999999999933,
-        "end": 5.92,
-        "text": " I'm sorry, I'm already forgiven"
+        "start": 1.9600000000000022,
+        "end": 6.48,
+        "text": " Yeah, I just know you already forgive me"
       },
       {
-        "start": 5.92,
+        "start": 6.48,
         "end": 9.3,
         "text": " You don't have to go and get it"
       },
       {
         "start": 9.3,
-        "end": 11.9,
+        "end": 11.86,
         "text": " Take the power you've been given"
       },
       {
-        "start": 11.9,
-        "end": 14.48,
+        "start": 11.86,
+        "end": 14.54,
         "text": " Don't you know that all of us are destined"
       },
       {
-        "start": 14.48,
-        "end": 17.28,
-        "text": " When you're part of Stephen you're restless"
+        "start": 14.54,
+        "end": 17.38,
+        "text": " When you're hostile and you're restless"
       },
       {
-        "start": 17.28,
-        "end": 20.32,
-        "text": " And you're mine keeping you guessing"
+        "start": 17.38,
+        "end": 20.46,
+        "text": " And you're mind keeping you guessing"
       },
       {
-        "start": 20.32,
-        "end": 22.76,
-        "text": " You don't know, no, no, it's okay"
+        "start": 20.46,
+        "end": 22.9,
+        "text": " You don't know what you get"
       },
       {
-        "start": 22.76,
-        "end": 24.6,
-        "text": " No, it's okay"
+        "start": 22.9,
+        "end": 24.98,
+        "text": " Know what you get"
       },
       {
-        "start": 24.6,
-        "end": 28.6,
-        "text": " This is why there won't be more making the most of"
+        "start": 24.98,
+        "end": 26.74,
+        "text": " This is for the people"
       },
       {
-        "start": 29.16,
-        "end": 31.24,
+        "start": 26.74,
+        "end": 29.1,
+        "text": " Making the most you"
+      },
+      {
+        "start": 29.1,
+        "end": 31.22,
         "text": " Find out no better words"
       },
       {
-        "start": 31.24,
-        "end": 32.78,
+        "start": 31.22,
+        "end": 32.74,
         "text": " One, two, one, two, one"
       },
       {
-        "start": 32.78,
-        "end": 34.62,
+        "start": 32.74,
+        "end": 34.1,
         "text": " How is the way through?"
       },
       {
-        "start": 34.94,
-        "end": 37.12,
+        "start": 34.92,
+        "end": 37.32,
         "text": " Well, get through anything"
       },
       {
-        "start": 37.12,
-        "end": 40.36,
-        "text": " No, break it all your rules"
+        "start": 37.32,
+        "end": 40.04,
+        "text": " Oh, breaking all the rules"
       },
       {
-        "start": 40.36,
-        "end": 42.42,
-        "text": " Find the way through me"
+        "start": 40.04,
+        "end": 41.88,
+        "text": " I need money"
       },
       {
-        "start": 42.42,
+        "start": 41.88,
+        "end": 43.32,
+        "text": " May for you"
+      },
+      {
+        "start": 43.32,
         "end": 45.14,
-        "text": " For you, love is over everything"
-      },
-      {
-        "start": 45.14,
-        "end": 48.24,
-        "text": " This is what I believe"
-      },
-      {
-        "start": 48.24,
-        "end": 50.92,
-        "text": " And no other love lies"
-      },
-      {
-        "start": 50.92,
-        "end": 53.38,
-        "text": " Is the reason to lose"
-      },
-      {
-        "start": 53.38,
-        "end": 57.8,
-        "text": " You don't have to turn on the beat"
-      },
-      {
-        "start": 57.8,
-        "end": 60.26,
-        "text": " I think you said it"
-      },
-      {
-        "start": 60.26,
-        "end": 62.18,
-        "text": " If you wanna find peace"
-      },
-      {
-        "start": 62.18,
-        "end": 64.2,
-        "text": " You don't know, no, it's okay"
-      },
-      {
-        "start": 64.2,
-        "end": 65.16,
-        "text": " You don't know, it's okay"
-      },
-      {
-        "start": 65.16,
-        "end": 65.72,
-        "text": " You don't know, it's okay"
-      },
-      {
-        "start": 65.72,
-        "end": 69.04,
-        "text": " When you're part of Stephen you're restless"
-      },
-      {
-        "start": 69.04,
-        "end": 73.2,
-        "text": " I think you said it"
-      },
-      {
-        "start": 74.61999999999999,
-        "end": 76.78,
-        "text": " I think you said it"
-      },
-      {
-        "start": 79.88,
-        "end": 81.86,
-        "text": " I think you said it"
-      },
-      {
-        "start": 81.86,
-        "end": 82.34,
-        "text": " I think you said it"
-      },
-      {
-        "start": 82.34,
-        "end": 83.48,
-        "text": " If you wanna be as restless"
-      },
-      {
-        "start": 83.48,
-        "end": 85.76,
-        "text": " You just messaged with the girl"
-      },
-      {
-        "start": 85.76,
-        "end": 87.34,
-        "text": " And dressing them on my profession's"
-      },
-      {
-        "start": 87.88,
-        "end": 89.56,
-        "text": " I just mean that I've never ever seen"
-      },
-      {
-        "start": 89.56,
-        "end": 90.72,
-        "text": " I let you in"
-      },
-      {
-        "start": 90.72,
-        "end": 93.46,
-        "text": " All of us together, rom and tavern"
-      },
-      {
-        "start": 93.46,
-        "end": 97.16,
-        "text": " Good be a world leader or just"
-      },
-      {
-        "start": 97.16,
-        "end": 100.32,
-        "text": " We still think it either way"
-      },
-      {
-        "start": 100.32,
-        "end": 102.42,
-        "text": " The way and by your own"
-      },
-      {
-        "start": 102.42,
-        "end": 104.42,
-        "text": " The world's about to find it"
-      },
-      {
-        "start": 104.42,
-        "end": 106.56,
-        "text": " This is what I believe for me"
-      },
-      {
-        "start": 106.56,
-        "end": 110.36,
-        "text": " In the most you find out no better words"
-      },
-      {
-        "start": 110.36,
-        "end": 113.72,
-        "text": " Come to me, now it's the way to"
-      },
-      {
-        "start": 113.72,
-        "end": 116.08,
-        "text": " Well, get to anything"
-      },
-      {
-        "start": 116.08,
-        "end": 119.24,
-        "text": " Break it on your rules"
-      },
-      {
-        "start": 119.24,
-        "end": 122.26,
-        "text": " Break the more we can make for you"
-      },
-      {
-        "start": 122.26,
-        "end": 124.34,
         "text": " Love is over everything"
       },
       {
-        "start": 124.34,
-        "end": 127.54,
+        "start": 45.14,
+        "end": 48.46,
         "text": " This is what I believe"
       },
       {
-        "start": 127.54,
-        "end": 129.36,
-        "text": " And no other love lies"
+        "start": 48.46,
+        "end": 51.08,
+        "text": " And over the love lies"
       },
       {
-        "start": 130.24,
-        "end": 132.44,
-        "text": " Is the reason to lose"
+        "start": 51.08,
+        "end": 54.16,
+        "text": " It's a reason you insist"
       },
       {
-        "start": 132.44,
-        "end": 133.56,
-        "text": " Is the reason to lose"
+        "start": 54.16,
+        "end": 56.78,
+        "text": " You know that I'm trying to be"
       },
       {
-        "start": 133.56,
-        "end": 136.82,
-        "text": " You don't have to turn on the beat"
+        "start": 56.78,
+        "end": 59.54,
+        "text": " I think you said"
       },
       {
-        "start": 136.82,
-        "end": 139.26,
-        "text": " I think you said it"
+        "start": 59.54,
+        "end": 61.98,
+        "text": " You brought a fine piece"
       },
       {
-        "start": 139.26,
-        "end": 141.98,
-        "text": " You wanna find me, please"
+        "start": 61.98,
+        "end": 63.92,
+        "text": " And you know you're so concerned"
       },
       {
-        "start": 141.98,
-        "end": 144.68,
-        "text": " There's nothing inside your soul"
+        "start": 63.92,
+        "end": 65.1,
+        "text": " In your cell"
       },
       {
-        "start": 144.68,
-        "end": 147.82,
-        "text": " Only one song, please"
+        "start": 65.1,
+        "end": 68.78,
+        "text": " Everybody wants something else"
       },
       {
-        "start": 147.82,
-        "end": 150.14,
-        "text": " I think it's special"
+        "start": 69.5,
+        "end": 70.78,
+        "text": " I think you said"
       },
       {
-        "start": 150.14,
-        "end": 153.42,
-        "text": " Don't you love baby"
+        "start": 74.48,
+        "end": 76.48,
+        "text": " I think you said"
       },
       {
-        "start": 153.42,
-        "end": 155.26,
-        "text": " I think it's special"
+        "start": 76.48,
+        "end": 76.6,
+        "text": " I think you said"
       },
       {
-        "start": 158.96,
-        "end": 160.66,
-        "text": " I think it's special"
+        "start": 76.6,
+        "end": 80.68,
+        "text": " I think you said"
       },
       {
-        "start": 160.66,
-        "end": 161.4,
-        "text": " I think it's special"
+        "start": 81.78,
+        "end": 83.58,
+        "text": " You must be a specialist"
+      },
+      {
+        "start": 83.58,
+        "end": 84.56,
+        "text": " There's a message"
+      },
+      {
+        "start": 84.56,
+        "end": 86.5,
+        "text": " Where they got me crushing them"
+      },
+      {
+        "start": 86.5,
+        "end": 87.96,
+        "text": " When my profession is"
+      },
+      {
+        "start": 87.96,
+        "end": 89.08,
+        "text": " I've just been a lover"
+      },
+      {
+        "start": 89.08,
+        "end": 90.76,
+        "text": " Ever since I let you in"
+      },
+      {
+        "start": 90.76,
+        "end": 91.8,
+        "text": " All of us together"
+      },
+      {
+        "start": 91.8,
+        "end": 93.52,
+        "text": " I'm in heaven"
+      },
+      {
+        "start": 93.52,
+        "end": 95.0,
+        "text": " Good near"
+      },
+      {
+        "start": 95.0,
+        "end": 96.16,
+        "text": " World leader"
+      },
+      {
+        "start": 96.16,
+        "end": 99.9,
+        "text": " Or just when we still need it"
+      },
+      {
+        "start": 99.9,
+        "end": 100.38,
+        "text": " Either way"
+      },
+      {
+        "start": 100.38,
+        "end": 101.56,
+        "text": " The way you fight around"
+      },
+      {
+        "start": 102.26,
+        "end": 104.22,
+        "text": " The world's about to fight"
+      },
+      {
+        "start": 104.22,
+        "end": 105.78,
+        "text": " This is for the people"
+      },
+      {
+        "start": 105.78,
+        "end": 107.56,
+        "text": " Making the most you"
+      },
+      {
+        "start": 108.1,
+        "end": 110.32,
+        "text": " Find out no better words"
+      },
+      {
+        "start": 110.32,
+        "end": 112.1,
+        "text": " One, two, one, two"
+      },
+      {
+        "start": 112.1,
+        "end": 113.64,
+        "text": " How is the way through?"
+      },
+      {
+        "start": 113.64,
+        "end": 116.14,
+        "text": " We'll get to anything"
+      },
+      {
+        "start": 116.14,
+        "end": 118.88,
+        "text": " Breaking all the rules"
+      },
+      {
+        "start": 118.88,
+        "end": 122.22,
+        "text": " Find the way we made for you"
+      },
+      {
+        "start": 122.22,
+        "end": 124.38,
+        "text": " Love is over everything"
+      },
+      {
+        "start": 124.38,
+        "end": 127.3,
+        "text": " This is what I believe"
+      },
+      {
+        "start": 127.3,
+        "end": 129.64,
+        "text": " And over the love lies"
+      },
+      {
+        "start": 130.4,
+        "end": 132.64,
+        "text": " It's a reason you insist"
+      },
+      {
+        "start": 133.2,
+        "end": 135.76,
+        "text": " You know that I'm trying to be"
+      },
+      {
+        "start": 136.68,
+        "end": 138.46,
+        "text": " I think you said"
+      },
+      {
+        "start": 138.46,
+        "end": 141.4,
+        "text": " You brought a fine piece"
+      },
+      {
+        "start": 141.4,
+        "end": 143.06,
+        "text": " You should look inside"
+      },
+      {
+        "start": 143.06,
+        "end": 144.74,
+        "text": " You're still a boy"
+      },
+      {
+        "start": 144.74,
+        "end": 146.14,
+        "text": " I think you said"
+      },
+      {
+        "start": 146.14,
+        "end": 151.14,
+        "text": " I think you said"
+      },
+      {
+        "start": 151.14,
+        "end": 152.5,
+        "text": " I think you said"
+      },
+      {
+        "start": 152.5,
+        "end": 153.18,
+        "text": " Baby"
+      },
+      {
+        "start": 154.4,
+        "end": 155.46,
+        "text": " I think you said"
+      },
+      {
+        "start": 157.86,
+        "end": 159.76,
+        "text": " I think you said"
+      },
+      {
+        "start": 159.76,
+        "end": 161.06,
+        "text": " I think you said"
       }
     ],
     "words": [
       {
-        "start": 2.4399999999999933,
-        "end": 3.2799999999999967,
-        "word": " I'm"
+        "start": 1.9600000000000022,
+        "end": 2.82,
+        "word": " Yeah,"
       },
       {
-        "start": 3.2799999999999967,
-        "end": 4.12,
-        "word": " sorry,"
+        "start": 2.82,
+        "end": 3.28,
+        "word": " I"
       },
       {
-        "start": 4.74,
-        "end": 5.22,
-        "word": " I'm"
+        "start": 3.28,
+        "end": 3.82,
+        "word": " just"
       },
       {
-        "start": 5.22,
-        "end": 5.22,
+        "start": 3.82,
+        "end": 4.1,
+        "word": " know"
+      },
+      {
+        "start": 4.1,
+        "end": 4.52,
+        "word": " you"
+      },
+      {
+        "start": 4.52,
+        "end": 5.12,
         "word": " already"
       },
       {
-        "start": 5.22,
-        "end": 5.92,
-        "word": " forgiven"
+        "start": 5.12,
+        "end": 5.7,
+        "word": " forgive"
       },
       {
-        "start": 5.92,
-        "end": 6.82,
+        "start": 5.7,
+        "end": 6.48,
+        "word": " me"
+      },
+      {
+        "start": 6.48,
+        "end": 6.84,
         "word": " You"
       },
       {
-        "start": 6.82,
-        "end": 7.42,
+        "start": 6.84,
+        "end": 7.36,
         "word": " don't"
       },
       {
-        "start": 7.42,
-        "end": 7.74,
+        "start": 7.36,
+        "end": 7.7,
         "word": " have"
       },
       {
-        "start": 7.74,
-        "end": 7.96,
+        "start": 7.7,
+        "end": 7.98,
         "word": " to"
       },
       {
-        "start": 7.96,
-        "end": 8.22,
+        "start": 7.98,
+        "end": 8.24,
         "word": " go"
       },
       {
-        "start": 8.22,
-        "end": 8.38,
+        "start": 8.24,
+        "end": 8.36,
         "word": " and"
       },
       {
-        "start": 8.38,
-        "end": 8.64,
+        "start": 8.36,
+        "end": 8.62,
         "word": " get"
       },
       {
-        "start": 8.64,
+        "start": 8.62,
         "end": 9.3,
         "word": " it"
       },
       {
         "start": 9.3,
-        "end": 9.74,
+        "end": 9.78,
         "word": " Take"
       },
       {
-        "start": 9.74,
-        "end": 10.22,
+        "start": 9.78,
+        "end": 10.24,
         "word": " the"
       },
       {
-        "start": 10.22,
-        "end": 10.62,
+        "start": 10.24,
+        "end": 10.64,
         "word": " power"
       },
       {
-        "start": 10.62,
-        "end": 11.02,
+        "start": 10.64,
+        "end": 11.1,
         "word": " you've"
       },
       {
-        "start": 11.02,
+        "start": 11.1,
         "end": 11.16,
         "word": " been"
       },
       {
         "start": 11.16,
-        "end": 11.9,
+        "end": 11.86,
         "word": " given"
       },
       {
-        "start": 11.9,
-        "end": 12.5,
+        "start": 11.86,
+        "end": 12.46,
         "word": " Don't"
       },
       {
-        "start": 12.5,
+        "start": 12.46,
         "end": 12.68,
         "word": " you"
       },
       {
         "start": 12.68,
-        "end": 12.94,
+        "end": 12.9,
         "word": " know"
       },
       {
-        "start": 12.94,
+        "start": 12.9,
         "end": 13.16,
         "word": " that"
       },
       {
         "start": 13.16,
-        "end": 13.36,
+        "end": 13.38,
         "word": " all"
       },
       {
-        "start": 13.36,
+        "start": 13.38,
         "end": 13.62,
         "word": " of"
       },
@@ -447,61 +502,56 @@
       },
       {
         "start": 13.98,
-        "end": 14.48,
+        "end": 14.54,
         "word": " destined"
       },
       {
-        "start": 14.48,
-        "end": 15.2,
+        "start": 14.54,
+        "end": 15.24,
         "word": " When"
       },
       {
-        "start": 15.2,
-        "end": 15.64,
+        "start": 15.24,
+        "end": 15.56,
         "word": " you're"
       },
       {
-        "start": 15.64,
-        "end": 15.74,
-        "word": " part"
-      },
-      {
-        "start": 15.74,
+        "start": 15.56,
         "end": 15.96,
-        "word": " of"
+        "word": " hostile"
       },
       {
         "start": 15.96,
-        "end": 16.34,
-        "word": " Stephen"
+        "end": 16.48,
+        "word": " and"
       },
       {
-        "start": 16.34,
-        "end": 16.86,
+        "start": 16.48,
+        "end": 16.94,
         "word": " you're"
       },
       {
-        "start": 16.86,
-        "end": 17.28,
+        "start": 16.94,
+        "end": 17.38,
         "word": " restless"
       },
       {
-        "start": 17.28,
+        "start": 17.38,
         "end": 18.02,
         "word": " And"
       },
       {
         "start": 18.02,
-        "end": 18.26,
+        "end": 18.28,
         "word": " you're"
       },
       {
-        "start": 18.26,
-        "end": 18.66,
-        "word": " mine"
+        "start": 18.28,
+        "end": 18.68,
+        "word": " mind"
       },
       {
-        "start": 18.66,
+        "start": 18.68,
         "end": 19.18,
         "word": " keeping"
       },
@@ -512,961 +562,851 @@
       },
       {
         "start": 19.62,
-        "end": 20.32,
+        "end": 20.46,
         "word": " guessing"
       },
       {
-        "start": 20.32,
+        "start": 20.46,
         "end": 20.84,
         "word": " You"
       },
       {
         "start": 20.84,
-        "end": 21.16,
+        "end": 21.12,
         "word": " don't"
       },
       {
-        "start": 21.16,
-        "end": 21.6,
-        "word": " know,"
+        "start": 21.12,
+        "end": 21.68,
+        "word": " know"
       },
       {
-        "start": 21.6,
-        "end": 22.0,
-        "word": " no,"
+        "start": 21.68,
+        "end": 22.12,
+        "word": " what"
       },
       {
-        "start": 22.0,
-        "end": 22.18,
-        "word": " no,"
+        "start": 22.12,
+        "end": 22.4,
+        "word": " you"
       },
       {
-        "start": 22.18,
-        "end": 22.24,
-        "word": " it's"
+        "start": 22.4,
+        "end": 22.9,
+        "word": " get"
       },
       {
-        "start": 22.24,
-        "end": 22.76,
-        "word": " okay"
+        "start": 22.9,
+        "end": 23.18,
+        "word": " Know"
       },
       {
-        "start": 22.76,
-        "end": 23.4,
-        "word": " No,"
+        "start": 23.18,
+        "end": 23.52,
+        "word": " what"
       },
       {
-        "start": 23.4,
-        "end": 23.6,
-        "word": " it's"
+        "start": 23.52,
+        "end": 23.78,
+        "word": " you"
       },
       {
-        "start": 23.6,
-        "end": 24.6,
-        "word": " okay"
+        "start": 23.78,
+        "end": 24.98,
+        "word": " get"
       },
       {
-        "start": 24.6,
-        "end": 25.38,
+        "start": 24.98,
+        "end": 25.48,
         "word": " This"
       },
       {
-        "start": 25.38,
+        "start": 25.48,
         "end": 25.7,
         "word": " is"
       },
       {
         "start": 25.7,
-        "end": 25.84,
-        "word": " why"
+        "end": 25.76,
+        "word": " for"
       },
       {
-        "start": 25.84,
-        "end": 26.0,
-        "word": " there"
-      },
-      {
-        "start": 26.0,
-        "end": 26.3,
-        "word": " won't"
-      },
-      {
-        "start": 26.3,
-        "end": 26.58,
-        "word": " be"
-      },
-      {
-        "start": 26.58,
-        "end": 27.14,
-        "word": " more"
-      },
-      {
-        "start": 27.14,
-        "end": 27.62,
-        "word": " making"
-      },
-      {
-        "start": 27.62,
-        "end": 28.1,
+        "start": 25.76,
+        "end": 26.12,
         "word": " the"
       },
       {
-        "start": 28.1,
-        "end": 28.4,
+        "start": 26.12,
+        "end": 26.74,
+        "word": " people"
+      },
+      {
+        "start": 26.74,
+        "end": 27.64,
+        "word": " Making"
+      },
+      {
+        "start": 27.64,
+        "end": 28.12,
+        "word": " the"
+      },
+      {
+        "start": 28.12,
+        "end": 28.42,
         "word": " most"
       },
       {
-        "start": 28.4,
-        "end": 28.74,
-        "word": " of"
+        "start": 28.42,
+        "end": 29.1,
+        "word": " you"
       },
       {
-        "start": 29.16,
-        "end": 29.54,
+        "start": 29.1,
+        "end": 29.5,
         "word": " Find"
       },
       {
-        "start": 29.54,
-        "end": 30.06,
+        "start": 29.5,
+        "end": 30.02,
         "word": " out"
       },
       {
-        "start": 30.06,
-        "end": 30.38,
+        "start": 30.02,
+        "end": 30.4,
         "word": " no"
       },
       {
-        "start": 30.38,
-        "end": 30.8,
+        "start": 30.4,
+        "end": 30.84,
         "word": " better"
       },
       {
-        "start": 30.8,
-        "end": 31.24,
+        "start": 30.84,
+        "end": 31.22,
         "word": " words"
       },
       {
-        "start": 31.24,
-        "end": 31.7,
+        "start": 31.22,
+        "end": 31.66,
         "word": " One,"
       },
       {
-        "start": 32.18,
-        "end": 32.18,
+        "start": 32.0,
+        "end": 32.02,
         "word": " two,"
       },
       {
-        "start": 32.26,
-        "end": 32.48,
+        "start": 32.42,
+        "end": 32.42,
         "word": " one,"
       },
       {
-        "start": 32.48,
-        "end": 32.76,
+        "start": 32.74,
+        "end": 32.74,
         "word": " two,"
       },
       {
-        "start": 32.78,
-        "end": 32.78,
+        "start": 32.74,
+        "end": 32.74,
         "word": " one"
       },
       {
-        "start": 32.78,
-        "end": 33.08,
+        "start": 32.74,
+        "end": 33.04,
         "word": " How"
       },
       {
-        "start": 33.08,
+        "start": 33.04,
         "end": 33.46,
         "word": " is"
       },
       {
         "start": 33.46,
-        "end": 33.72,
+        "end": 33.7,
         "word": " the"
       },
       {
-        "start": 33.72,
+        "start": 33.7,
         "end": 34.0,
         "word": " way"
       },
       {
         "start": 34.0,
-        "end": 34.62,
+        "end": 34.4,
         "word": " through?"
       },
       {
-        "start": 34.94,
+        "start": 34.92,
         "end": 35.08,
         "word": " Well,"
       },
       {
-        "start": 35.46,
-        "end": 35.54,
+        "start": 35.28,
+        "end": 35.52,
         "word": " get"
       },
       {
-        "start": 35.54,
+        "start": 35.52,
         "end": 36.0,
         "word": " through"
       },
       {
         "start": 36.0,
-        "end": 37.12,
+        "end": 37.32,
         "word": " anything"
       },
       {
-        "start": 37.12,
-        "end": 37.74,
-        "word": " No,"
+        "start": 37.32,
+        "end": 38.2,
+        "word": " Oh,"
       },
       {
-        "start": 38.08,
-        "end": 38.4,
-        "word": " break"
+        "start": 38.52,
+        "end": 38.54,
+        "word": " breaking"
       },
       {
-        "start": 38.4,
-        "end": 38.76,
-        "word": " it"
-      },
-      {
-        "start": 38.76,
-        "end": 38.94,
+        "start": 38.54,
+        "end": 39.02,
         "word": " all"
       },
       {
-        "start": 38.94,
-        "end": 39.28,
-        "word": " your"
-      },
-      {
-        "start": 39.28,
-        "end": 40.36,
-        "word": " rules"
-      },
-      {
-        "start": 40.36,
-        "end": 41.26,
-        "word": " Find"
-      },
-      {
-        "start": 41.26,
-        "end": 41.52,
+        "start": 39.02,
+        "end": 39.2,
         "word": " the"
       },
       {
-        "start": 41.52,
-        "end": 41.78,
-        "word": " way"
+        "start": 39.2,
+        "end": 40.04,
+        "word": " rules"
       },
       {
-        "start": 41.78,
-        "end": 42.08,
-        "word": " through"
+        "start": 40.04,
+        "end": 41.16,
+        "word": " I"
       },
       {
-        "start": 42.08,
-        "end": 42.42,
-        "word": " me"
+        "start": 41.16,
+        "end": 41.46,
+        "word": " need"
       },
       {
-        "start": 42.42,
-        "end": 42.62,
-        "word": " For"
+        "start": 41.46,
+        "end": 41.88,
+        "word": " money"
       },
       {
-        "start": 42.62,
-        "end": 43.14,
-        "word": " you,"
+        "start": 41.88,
+        "end": 42.48,
+        "word": " May"
       },
       {
-        "start": 43.48,
-        "end": 43.68,
-        "word": " love"
+        "start": 42.48,
+        "end": 42.7,
+        "word": " for"
       },
       {
-        "start": 43.68,
+        "start": 42.7,
+        "end": 43.32,
+        "word": " you"
+      },
+      {
+        "start": 43.32,
+        "end": 43.76,
+        "word": " Love"
+      },
+      {
+        "start": 43.76,
         "end": 44.0,
         "word": " is"
       },
       {
         "start": 44.0,
-        "end": 44.4,
+        "end": 44.36,
         "word": " over"
       },
       {
-        "start": 44.4,
+        "start": 44.36,
         "end": 45.14,
         "word": " everything"
       },
       {
         "start": 45.14,
-        "end": 46.2,
+        "end": 46.18,
         "word": " This"
       },
       {
-        "start": 46.2,
-        "end": 46.56,
+        "start": 46.18,
+        "end": 46.54,
         "word": " is"
       },
       {
-        "start": 46.56,
+        "start": 46.54,
         "end": 46.82,
         "word": " what"
       },
       {
         "start": 46.82,
-        "end": 47.02,
+        "end": 46.98,
         "word": " I"
       },
       {
-        "start": 47.02,
-        "end": 48.24,
+        "start": 46.98,
+        "end": 48.46,
         "word": " believe"
       },
       {
-        "start": 48.24,
-        "end": 49.08,
+        "start": 48.46,
+        "end": 49.12,
         "word": " And"
       },
       {
-        "start": 49.08,
-        "end": 49.26,
-        "word": " no"
+        "start": 49.12,
+        "end": 49.38,
+        "word": " over"
       },
       {
-        "start": 49.26,
-        "end": 49.58,
-        "word": " other"
+        "start": 49.38,
+        "end": 49.78,
+        "word": " the"
       },
       {
-        "start": 49.58,
-        "end": 50.04,
+        "start": 49.78,
+        "end": 50.06,
         "word": " love"
       },
       {
-        "start": 50.04,
-        "end": 50.92,
+        "start": 50.06,
+        "end": 51.08,
         "word": " lies"
       },
       {
-        "start": 50.92,
-        "end": 51.9,
-        "word": " Is"
-      },
-      {
-        "start": 51.9,
+        "start": 51.08,
         "end": 52.02,
-        "word": " the"
+        "word": " It's"
       },
       {
         "start": 52.02,
-        "end": 52.38,
+        "end": 52.02,
+        "word": " a"
+      },
+      {
+        "start": 52.02,
+        "end": 52.34,
         "word": " reason"
       },
       {
-        "start": 52.38,
-        "end": 52.8,
+        "start": 52.34,
+        "end": 52.88,
+        "word": " you"
+      },
+      {
+        "start": 52.88,
+        "end": 54.16,
+        "word": " insist"
+      },
+      {
+        "start": 54.16,
+        "end": 54.74,
+        "word": " You"
+      },
+      {
+        "start": 54.74,
+        "end": 55.0,
+        "word": " know"
+      },
+      {
+        "start": 55.0,
+        "end": 55.18,
+        "word": " that"
+      },
+      {
+        "start": 55.18,
+        "end": 55.32,
+        "word": " I'm"
+      },
+      {
+        "start": 55.32,
+        "end": 55.8,
+        "word": " trying"
+      },
+      {
+        "start": 55.8,
+        "end": 56.32,
         "word": " to"
       },
       {
-        "start": 52.8,
-        "end": 53.38,
-        "word": " lose"
-      },
-      {
-        "start": 53.38,
-        "end": 54.68,
-        "word": " You"
-      },
-      {
-        "start": 54.68,
-        "end": 54.94,
-        "word": " don't"
-      },
-      {
-        "start": 54.94,
-        "end": 55.12,
-        "word": " have"
-      },
-      {
-        "start": 55.12,
-        "end": 55.34,
-        "word": " to"
-      },
-      {
-        "start": 55.34,
-        "end": 55.88,
-        "word": " turn"
-      },
-      {
-        "start": 55.88,
-        "end": 56.64,
-        "word": " on"
-      },
-      {
-        "start": 56.64,
-        "end": 57.06,
-        "word": " the"
-      },
-      {
-        "start": 57.06,
-        "end": 57.8,
-        "word": " beat"
-      },
-      {
-        "start": 57.8,
-        "end": 58.42,
-        "word": " I"
-      },
-      {
-        "start": 58.42,
-        "end": 58.68,
-        "word": " think"
-      },
-      {
-        "start": 58.68,
-        "end": 59.08,
-        "word": " you"
-      },
-      {
-        "start": 59.08,
-        "end": 59.62,
-        "word": " said"
-      },
-      {
-        "start": 59.62,
-        "end": 60.26,
-        "word": " it"
-      },
-      {
-        "start": 60.26,
-        "end": 60.46,
-        "word": " If"
-      },
-      {
-        "start": 60.46,
-        "end": 60.6,
-        "word": " you"
-      },
-      {
-        "start": 60.6,
-        "end": 60.82,
-        "word": " wanna"
-      },
-      {
-        "start": 60.82,
-        "end": 61.38,
-        "word": " find"
-      },
-      {
-        "start": 61.38,
-        "end": 62.18,
-        "word": " peace"
-      },
-      {
-        "start": 62.18,
-        "end": 62.62,
-        "word": " You"
-      },
-      {
-        "start": 62.62,
-        "end": 62.84,
-        "word": " don't"
-      },
-      {
-        "start": 62.84,
-        "end": 63.4,
-        "word": " know,"
-      },
-      {
-        "start": 63.52,
-        "end": 63.52,
-        "word": " no,"
-      },
-      {
-        "start": 63.84,
-        "end": 63.92,
-        "word": " it's"
-      },
-      {
-        "start": 63.92,
-        "end": 64.2,
-        "word": " okay"
-      },
-      {
-        "start": 64.2,
-        "end": 64.4,
-        "word": " You"
-      },
-      {
-        "start": 64.4,
-        "end": 64.76,
-        "word": " don't"
-      },
-      {
-        "start": 64.76,
-        "end": 64.88,
-        "word": " know,"
-      },
-      {
-        "start": 64.88,
-        "end": 64.88,
-        "word": " it's"
-      },
-      {
-        "start": 64.88,
-        "end": 65.16,
-        "word": " okay"
-      },
-      {
-        "start": 65.16,
-        "end": 65.16,
-        "word": " You"
-      },
-      {
-        "start": 65.16,
-        "end": 65.72,
-        "word": " don't"
-      },
-      {
-        "start": 65.72,
-        "end": 65.72,
-        "word": " know,"
-      },
-      {
-        "start": 65.72,
-        "end": 65.72,
-        "word": " it's"
-      },
-      {
-        "start": 65.72,
-        "end": 65.72,
-        "word": " okay"
-      },
-      {
-        "start": 65.72,
-        "end": 66.02,
-        "word": " When"
-      },
-      {
-        "start": 66.02,
-        "end": 66.36,
-        "word": " you're"
-      },
-      {
-        "start": 66.36,
-        "end": 66.36,
-        "word": " part"
-      },
-      {
-        "start": 66.36,
-        "end": 66.58,
-        "word": " of"
-      },
-      {
-        "start": 66.58,
-        "end": 67.72,
-        "word": " Stephen"
-      },
-      {
-        "start": 67.72,
-        "end": 68.72,
-        "word": " you're"
-      },
-      {
-        "start": 68.72,
-        "end": 69.04,
-        "word": " restless"
-      },
-      {
-        "start": 69.04,
-        "end": 69.7,
-        "word": " I"
-      },
-      {
-        "start": 69.7,
-        "end": 69.98,
-        "word": " think"
-      },
-      {
-        "start": 69.98,
-        "end": 70.26,
-        "word": " you"
-      },
-      {
-        "start": 70.26,
-        "end": 72.0,
-        "word": " said"
-      },
-      {
-        "start": 72.0,
-        "end": 73.2,
-        "word": " it"
-      },
-      {
-        "start": 74.61999999999999,
-        "end": 75.32,
-        "word": " I"
-      },
-      {
-        "start": 75.32,
-        "end": 75.7,
-        "word": " think"
-      },
-      {
-        "start": 75.7,
-        "end": 76.0,
-        "word": " you"
-      },
-      {
-        "start": 76.0,
-        "end": 76.36,
-        "word": " said"
-      },
-      {
-        "start": 76.36,
-        "end": 76.78,
-        "word": " it"
-      },
-      {
-        "start": 79.88,
-        "end": 80.58,
-        "word": " I"
-      },
-      {
-        "start": 80.58,
-        "end": 81.28,
-        "word": " think"
-      },
-      {
-        "start": 81.28,
-        "end": 81.54,
-        "word": " you"
-      },
-      {
-        "start": 81.54,
-        "end": 81.86,
-        "word": " said"
-      },
-      {
-        "start": 81.86,
-        "end": 81.86,
-        "word": " it"
-      },
-      {
-        "start": 81.86,
-        "end": 81.86,
-        "word": " I"
-      },
-      {
-        "start": 81.86,
-        "end": 81.86,
-        "word": " think"
-      },
-      {
-        "start": 81.86,
-        "end": 81.86,
-        "word": " you"
-      },
-      {
-        "start": 81.86,
-        "end": 82.12,
-        "word": " said"
-      },
-      {
-        "start": 82.12,
-        "end": 82.34,
-        "word": " it"
-      },
-      {
-        "start": 82.34,
-        "end": 82.42,
-        "word": " If"
-      },
-      {
-        "start": 82.42,
-        "end": 82.52,
-        "word": " you"
-      },
-      {
-        "start": 82.52,
-        "end": 82.64,
-        "word": " wanna"
-      },
-      {
-        "start": 82.64,
-        "end": 82.9,
+        "start": 56.32,
+        "end": 56.78,
         "word": " be"
       },
       {
-        "start": 82.9,
-        "end": 83.08,
-        "word": " as"
+        "start": 56.78,
+        "end": 57.36,
+        "word": " I"
       },
       {
-        "start": 83.08,
-        "end": 83.48,
-        "word": " restless"
+        "start": 57.36,
+        "end": 58.7,
+        "word": " think"
       },
       {
-        "start": 83.48,
-        "end": 83.9,
+        "start": 58.7,
+        "end": 59.04,
+        "word": " you"
+      },
+      {
+        "start": 59.04,
+        "end": 59.54,
+        "word": " said"
+      },
+      {
+        "start": 59.54,
+        "end": 60.42,
         "word": " You"
       },
       {
-        "start": 83.9,
-        "end": 84.06,
-        "word": " just"
+        "start": 60.42,
+        "end": 60.84,
+        "word": " brought"
       },
       {
-        "start": 84.06,
-        "end": 84.72,
-        "word": " messaged"
+        "start": 60.84,
+        "end": 61.04,
+        "word": " a"
       },
       {
-        "start": 84.72,
-        "end": 85.34,
-        "word": " with"
+        "start": 61.04,
+        "end": 61.4,
+        "word": " fine"
       },
       {
-        "start": 85.34,
-        "end": 85.6,
-        "word": " the"
+        "start": 61.4,
+        "end": 61.98,
+        "word": " piece"
       },
       {
-        "start": 85.6,
-        "end": 85.76,
-        "word": " girl"
-      },
-      {
-        "start": 85.76,
-        "end": 85.92,
+        "start": 61.98,
+        "end": 62.5,
         "word": " And"
       },
       {
-        "start": 85.92,
-        "end": 86.18,
-        "word": " dressing"
+        "start": 62.5,
+        "end": 62.66,
+        "word": " you"
       },
       {
-        "start": 86.18,
-        "end": 86.44,
+        "start": 62.66,
+        "end": 62.94,
+        "word": " know"
+      },
+      {
+        "start": 62.94,
+        "end": 63.5,
+        "word": " you're"
+      },
+      {
+        "start": 63.5,
+        "end": 63.5,
+        "word": " so"
+      },
+      {
+        "start": 63.5,
+        "end": 63.92,
+        "word": " concerned"
+      },
+      {
+        "start": 63.92,
+        "end": 64.34,
+        "word": " In"
+      },
+      {
+        "start": 64.34,
+        "end": 64.6,
+        "word": " your"
+      },
+      {
+        "start": 64.6,
+        "end": 65.1,
+        "word": " cell"
+      },
+      {
+        "start": 65.1,
+        "end": 66.24,
+        "word": " Everybody"
+      },
+      {
+        "start": 66.24,
+        "end": 67.06,
+        "word": " wants"
+      },
+      {
+        "start": 67.06,
+        "end": 67.92,
+        "word": " something"
+      },
+      {
+        "start": 67.92,
+        "end": 68.78,
+        "word": " else"
+      },
+      {
+        "start": 69.5,
+        "end": 69.74,
+        "word": " I"
+      },
+      {
+        "start": 69.74,
+        "end": 70.06,
+        "word": " think"
+      },
+      {
+        "start": 70.06,
+        "end": 70.36,
+        "word": " you"
+      },
+      {
+        "start": 70.36,
+        "end": 70.8,
+        "word": " said"
+      },
+      {
+        "start": 74.48,
+        "end": 75.36,
+        "word": " I"
+      },
+      {
+        "start": 75.36,
+        "end": 75.76,
+        "word": " think"
+      },
+      {
+        "start": 75.76,
+        "end": 76.1,
+        "word": " you"
+      },
+      {
+        "start": 76.1,
+        "end": 76.48,
+        "word": " said"
+      },
+      {
+        "start": 76.48,
+        "end": 76.6,
+        "word": " I"
+      },
+      {
+        "start": 76.6,
+        "end": 76.6,
+        "word": " think"
+      },
+      {
+        "start": 76.6,
+        "end": 76.6,
+        "word": " you"
+      },
+      {
+        "start": 76.6,
+        "end": 76.6,
+        "word": " said"
+      },
+      {
+        "start": 76.6,
+        "end": 77.12,
+        "word": " I"
+      },
+      {
+        "start": 77.12,
+        "end": 79.6,
+        "word": " think"
+      },
+      {
+        "start": 79.6,
+        "end": 80.68,
+        "word": " you"
+      },
+      {
+        "start": 80.68,
+        "end": 80.68,
+        "word": " said"
+      },
+      {
+        "start": 81.72,
+        "end": 82.16,
+        "word": " You"
+      },
+      {
+        "start": 82.16,
+        "end": 82.64,
+        "word": " must"
+      },
+      {
+        "start": 82.64,
+        "end": 82.92,
+        "word": " be"
+      },
+      {
+        "start": 82.92,
+        "end": 83.1,
+        "word": " a"
+      },
+      {
+        "start": 83.1,
+        "end": 83.58,
+        "word": " specialist"
+      },
+      {
+        "start": 83.58,
+        "end": 84.02,
+        "word": " There's"
+      },
+      {
+        "start": 84.02,
+        "end": 84.16,
+        "word": " a"
+      },
+      {
+        "start": 84.16,
+        "end": 84.56,
+        "word": " message"
+      },
+      {
+        "start": 84.56,
+        "end": 84.6,
+        "word": " Where"
+      },
+      {
+        "start": 84.6,
+        "end": 85.5,
+        "word": " they"
+      },
+      {
+        "start": 85.5,
+        "end": 85.7,
+        "word": " got"
+      },
+      {
+        "start": 85.7,
+        "end": 85.84,
+        "word": " me"
+      },
+      {
+        "start": 85.84,
+        "end": 86.2,
+        "word": " crushing"
+      },
+      {
+        "start": 86.2,
+        "end": 86.5,
         "word": " them"
       },
       {
-        "start": 86.44,
-        "end": 86.64,
-        "word": " on"
+        "start": 86.5,
+        "end": 86.6,
+        "word": " When"
       },
       {
-        "start": 86.64,
+        "start": 86.6,
         "end": 86.78,
         "word": " my"
       },
       {
         "start": 86.78,
-        "end": 87.34,
-        "word": " profession's"
+        "end": 87.14,
+        "word": " profession"
       },
       {
-        "start": 87.88,
-        "end": 88.18,
-        "word": " I"
+        "start": 87.14,
+        "end": 87.96,
+        "word": " is"
       },
       {
-        "start": 88.18,
+        "start": 87.96,
+        "end": 88.28,
+        "word": " I've"
+      },
+      {
+        "start": 88.28,
         "end": 88.42,
         "word": " just"
       },
       {
         "start": 88.42,
         "end": 88.66,
-        "word": " mean"
+        "word": " been"
       },
       {
         "start": 88.66,
-        "end": 88.74,
-        "word": " that"
+        "end": 88.78,
+        "word": " a"
       },
       {
-        "start": 88.74,
-        "end": 89.06,
-        "word": " I've"
+        "start": 88.78,
+        "end": 89.08,
+        "word": " lover"
       },
       {
-        "start": 89.06,
-        "end": 89.18,
-        "word": " never"
+        "start": 89.08,
+        "end": 89.36,
+        "word": " Ever"
       },
       {
-        "start": 89.18,
-        "end": 89.4,
-        "word": " ever"
+        "start": 89.36,
+        "end": 89.58,
+        "word": " since"
       },
       {
-        "start": 89.4,
-        "end": 89.56,
-        "word": " seen"
-      },
-      {
-        "start": 89.56,
-        "end": 89.78,
+        "start": 89.58,
+        "end": 89.8,
         "word": " I"
       },
       {
-        "start": 89.78,
-        "end": 89.94,
+        "start": 89.8,
+        "end": 89.96,
         "word": " let"
       },
       {
-        "start": 89.94,
-        "end": 90.16,
+        "start": 89.96,
+        "end": 90.22,
         "word": " you"
       },
       {
-        "start": 90.16,
-        "end": 90.72,
+        "start": 90.22,
+        "end": 90.76,
         "word": " in"
       },
       {
-        "start": 90.72,
+        "start": 90.76,
         "end": 91.08,
         "word": " All"
       },
       {
         "start": 91.08,
-        "end": 91.14,
+        "end": 91.16,
         "word": " of"
       },
       {
-        "start": 91.14,
-        "end": 91.36,
+        "start": 91.16,
+        "end": 91.38,
         "word": " us"
       },
       {
-        "start": 91.36,
+        "start": 91.38,
         "end": 91.8,
-        "word": " together,"
+        "word": " together"
       },
       {
-        "start": 92.02,
-        "end": 92.24,
-        "word": " rom"
+        "start": 91.8,
+        "end": 92.2,
+        "word": " I'm"
       },
       {
-        "start": 92.24,
-        "end": 92.28,
-        "word": " and"
+        "start": 92.2,
+        "end": 92.38,
+        "word": " in"
       },
       {
-        "start": 92.28,
-        "end": 93.46,
-        "word": " tavern"
+        "start": 92.38,
+        "end": 93.52,
+        "word": " heaven"
       },
       {
-        "start": 93.46,
-        "end": 94.16,
+        "start": 93.52,
+        "end": 94.08,
         "word": " Good"
       },
       {
-        "start": 94.16,
-        "end": 94.58,
-        "word": " be"
+        "start": 94.08,
+        "end": 95.0,
+        "word": " near"
       },
       {
-        "start": 94.58,
-        "end": 95.1,
-        "word": " a"
+        "start": 95.0,
+        "end": 95.76,
+        "word": " World"
       },
       {
-        "start": 95.1,
-        "end": 95.72,
-        "word": " world"
-      },
-      {
-        "start": 95.72,
-        "end": 96.12,
+        "start": 95.76,
+        "end": 96.16,
         "word": " leader"
       },
       {
-        "start": 96.12,
-        "end": 96.52,
-        "word": " or"
+        "start": 96.16,
+        "end": 96.68,
+        "word": " Or"
       },
       {
-        "start": 96.52,
-        "end": 97.16,
+        "start": 96.68,
+        "end": 97.2,
         "word": " just"
       },
       {
-        "start": 97.16,
-        "end": 97.68,
-        "word": " We"
+        "start": 97.2,
+        "end": 97.6,
+        "word": " when"
       },
       {
-        "start": 97.68,
-        "end": 98.54,
+        "start": 97.6,
+        "end": 97.88,
+        "word": " we"
+      },
+      {
+        "start": 97.88,
+        "end": 98.56,
         "word": " still"
       },
       {
-        "start": 98.54,
-        "end": 98.92,
-        "word": " think"
+        "start": 98.56,
+        "end": 98.9,
+        "word": " need"
       },
       {
-        "start": 98.92,
-        "end": 99.4,
+        "start": 98.9,
+        "end": 99.9,
         "word": " it"
       },
       {
-        "start": 99.4,
+        "start": 99.9,
         "end": 99.9,
-        "word": " either"
+        "word": " Either"
       },
       {
         "start": 99.9,
-        "end": 100.32,
+        "end": 100.38,
         "word": " way"
       },
       {
-        "start": 100.32,
+        "start": 100.38,
         "end": 100.52,
         "word": " The"
       },
       {
         "start": 100.52,
-        "end": 100.78,
+        "end": 100.76,
         "word": " way"
       },
       {
-        "start": 100.78,
-        "end": 101.12,
-        "word": " and"
+        "start": 100.76,
+        "end": 101.08,
+        "word": " you"
       },
       {
-        "start": 101.12,
-        "end": 101.36,
-        "word": " by"
+        "start": 101.08,
+        "end": 101.38,
+        "word": " fight"
       },
       {
-        "start": 101.36,
-        "end": 101.66,
-        "word": " your"
+        "start": 101.38,
+        "end": 101.69999999999999,
+        "word": " around"
       },
       {
-        "start": 101.66,
-        "end": 102.42,
-        "word": " own"
-      },
-      {
-        "start": 102.42,
-        "end": 102.88,
+        "start": 102.26,
+        "end": 102.86,
         "word": " The"
       },
       {
-        "start": 102.88,
+        "start": 102.86,
         "end": 103.34,
         "word": " world's"
       },
@@ -1477,126 +1417,116 @@
       },
       {
         "start": 103.62,
-        "end": 103.9,
+        "end": 103.92,
         "word": " to"
       },
       {
-        "start": 103.9,
+        "start": 103.92,
         "end": 104.22,
-        "word": " find"
+        "word": " fight"
       },
       {
         "start": 104.22,
-        "end": 104.42,
-        "word": " it"
-      },
-      {
-        "start": 104.42,
-        "end": 104.6,
+        "end": 104.62,
         "word": " This"
       },
       {
-        "start": 104.6,
-        "end": 104.74,
+        "start": 104.62,
+        "end": 104.76,
         "word": " is"
       },
       {
-        "start": 104.74,
-        "end": 104.9,
-        "word": " what"
-      },
-      {
-        "start": 104.9,
-        "end": 105.42,
-        "word": " I"
-      },
-      {
-        "start": 105.42,
-        "end": 105.66,
-        "word": " believe"
-      },
-      {
-        "start": 105.66,
-        "end": 106.06,
+        "start": 104.76,
+        "end": 104.88,
         "word": " for"
       },
       {
-        "start": 106.06,
-        "end": 106.56,
-        "word": " me"
-      },
-      {
-        "start": 106.56,
-        "end": 106.92,
-        "word": " In"
-      },
-      {
-        "start": 106.92,
-        "end": 107.12,
+        "start": 104.88,
+        "end": 105.12,
         "word": " the"
       },
       {
-        "start": 107.12,
-        "end": 107.48,
+        "start": 105.12,
+        "end": 105.78,
+        "word": " people"
+      },
+      {
+        "start": 105.78,
+        "end": 106.7,
+        "word": " Making"
+      },
+      {
+        "start": 106.7,
+        "end": 107.22,
+        "word": " the"
+      },
+      {
+        "start": 107.22,
+        "end": 107.5,
         "word": " most"
       },
       {
-        "start": 107.48,
-        "end": 108.18,
+        "start": 107.5,
+        "end": 107.82,
         "word": " you"
       },
       {
-        "start": 108.18,
-        "end": 108.48,
-        "word": " find"
+        "start": 108.1,
+        "end": 108.64,
+        "word": " Find"
       },
       {
-        "start": 108.48,
-        "end": 109.04,
+        "start": 108.64,
+        "end": 109.1,
         "word": " out"
       },
       {
-        "start": 109.04,
-        "end": 109.38,
+        "start": 109.1,
+        "end": 109.46,
         "word": " no"
       },
       {
-        "start": 109.38,
-        "end": 109.88,
+        "start": 109.46,
+        "end": 109.9,
         "word": " better"
       },
       {
-        "start": 109.88,
-        "end": 110.36,
+        "start": 109.9,
+        "end": 110.32,
         "word": " words"
       },
       {
-        "start": 110.36,
-        "end": 110.36,
-        "word": " Come"
+        "start": 110.32,
+        "end": 110.78,
+        "word": " One,"
       },
       {
-        "start": 110.36,
-        "end": 111.0,
-        "word": " to"
+        "start": 111.02,
+        "end": 111.14,
+        "word": " two,"
       },
       {
-        "start": 111.0,
-        "end": 111.66,
-        "word": " me,"
-      },
-      {
-        "start": 111.9,
-        "end": 112.1,
-        "word": " now"
+        "start": 111.26,
+        "end": 111.76,
+        "word": " one,"
       },
       {
         "start": 112.1,
-        "end": 112.62,
-        "word": " it's"
+        "end": 112.1,
+        "word": " two"
       },
       {
-        "start": 112.62,
+        "start": 112.1,
+        "end": 112.1,
+        "word": " How"
+      },
+      {
+        "start": 112.1,
+        "end": 112.54,
+        "word": " is"
+      },
+      {
+        "start": 112.54,
         "end": 112.78,
         "word": " the"
       },
@@ -1607,453 +1537,428 @@
       },
       {
         "start": 113.04,
-        "end": 113.72,
-        "word": " to"
+        "end": 113.64,
+        "word": " through?"
       },
       {
-        "start": 113.72,
-        "end": 114.12,
-        "word": " Well,"
+        "start": 113.64,
+        "end": 114.14,
+        "word": " We'll"
       },
       {
-        "start": 114.58,
-        "end": 114.6,
+        "start": 114.14,
+        "end": 114.58,
         "word": " get"
       },
       {
-        "start": 114.6,
-        "end": 115.02,
+        "start": 114.58,
+        "end": 115.06,
         "word": " to"
       },
       {
-        "start": 115.02,
-        "end": 116.08,
+        "start": 115.06,
+        "end": 116.14,
         "word": " anything"
       },
       {
-        "start": 116.08,
-        "end": 117.44,
-        "word": " Break"
+        "start": 116.14,
+        "end": 117.58,
+        "word": " Breaking"
       },
       {
-        "start": 117.44,
-        "end": 117.86,
-        "word": " it"
-      },
-      {
-        "start": 117.86,
+        "start": 117.58,
         "end": 118.04,
-        "word": " on"
+        "word": " all"
       },
       {
         "start": 118.04,
-        "end": 118.54,
-        "word": " your"
+        "end": 118.26,
+        "word": " the"
       },
       {
-        "start": 118.54,
-        "end": 119.24,
+        "start": 118.26,
+        "end": 118.88,
         "word": " rules"
       },
       {
-        "start": 119.24,
-        "end": 120.26,
-        "word": " Break"
+        "start": 118.88,
+        "end": 120.22,
+        "word": " Find"
       },
       {
-        "start": 120.26,
+        "start": 120.22,
         "end": 120.6,
         "word": " the"
       },
       {
         "start": 120.6,
         "end": 120.84,
-        "word": " more"
+        "word": " way"
       },
       {
         "start": 120.84,
-        "end": 121.12,
+        "end": 121.18,
         "word": " we"
       },
       {
-        "start": 121.12,
-        "end": 121.22,
-        "word": " can"
+        "start": 121.18,
+        "end": 121.56,
+        "word": " made"
       },
       {
-        "start": 121.22,
-        "end": 121.62,
-        "word": " make"
-      },
-      {
-        "start": 121.62,
-        "end": 121.88,
+        "start": 121.56,
+        "end": 121.84,
         "word": " for"
       },
       {
-        "start": 121.88,
-        "end": 122.26,
+        "start": 121.84,
+        "end": 122.22,
         "word": " you"
       },
       {
-        "start": 122.26,
+        "start": 122.22,
         "end": 122.74,
         "word": " Love"
       },
       {
         "start": 122.74,
-        "end": 123.04,
+        "end": 123.06,
         "word": " is"
       },
       {
-        "start": 123.04,
-        "end": 123.4,
+        "start": 123.06,
+        "end": 123.38,
         "word": " over"
       },
       {
-        "start": 123.4,
-        "end": 124.34,
+        "start": 123.38,
+        "end": 124.38,
         "word": " everything"
       },
       {
-        "start": 124.34,
+        "start": 124.38,
         "end": 125.26,
         "word": " This"
       },
       {
         "start": 125.26,
-        "end": 125.62,
+        "end": 125.64,
         "word": " is"
       },
       {
-        "start": 125.62,
+        "start": 125.64,
         "end": 125.82,
         "word": " what"
       },
       {
         "start": 125.82,
-        "end": 126.1,
+        "end": 126.06,
         "word": " I"
       },
       {
-        "start": 126.1,
-        "end": 127.54,
+        "start": 126.06,
+        "end": 127.3,
         "word": " believe"
       },
       {
-        "start": 127.54,
-        "end": 128.14,
+        "start": 127.3,
+        "end": 128.12,
         "word": " And"
       },
       {
-        "start": 128.14,
-        "end": 128.34,
-        "word": " no"
+        "start": 128.12,
+        "end": 128.42,
+        "word": " over"
       },
       {
-        "start": 128.34,
-        "end": 128.62,
-        "word": " other"
+        "start": 128.42,
+        "end": 128.78,
+        "word": " the"
       },
       {
-        "start": 128.62,
-        "end": 129.14,
+        "start": 128.78,
+        "end": 129.12,
         "word": " love"
       },
       {
-        "start": 129.14,
-        "end": 129.54,
+        "start": 129.12,
+        "end": 129.64,
         "word": " lies"
       },
       {
-        "start": 130.24,
-        "end": 130.94,
-        "word": " Is"
+        "start": 130.4,
+        "end": 131.02,
+        "word": " It's"
       },
       {
-        "start": 130.94,
-        "end": 131.04,
-        "word": " the"
+        "start": 131.02,
+        "end": 131.06,
+        "word": " a"
       },
       {
-        "start": 131.04,
-        "end": 131.44,
+        "start": 131.06,
+        "end": 131.38,
         "word": " reason"
       },
       {
-        "start": 131.44,
-        "end": 131.86,
-        "word": " to"
-      },
-      {
-        "start": 131.86,
-        "end": 132.44,
-        "word": " lose"
-      },
-      {
-        "start": 132.44,
-        "end": 132.86,
-        "word": " Is"
-      },
-      {
-        "start": 132.86,
-        "end": 133.56,
-        "word": " the"
-      },
-      {
-        "start": 133.56,
-        "end": 133.56,
-        "word": " reason"
-      },
-      {
-        "start": 133.56,
-        "end": 133.56,
-        "word": " to"
-      },
-      {
-        "start": 133.56,
-        "end": 133.56,
-        "word": " lose"
-      },
-      {
-        "start": 133.56,
-        "end": 133.9,
-        "word": " You"
-      },
-      {
-        "start": 133.9,
-        "end": 134.1,
-        "word": " don't"
-      },
-      {
-        "start": 134.1,
-        "end": 134.26,
-        "word": " have"
-      },
-      {
-        "start": 134.26,
-        "end": 134.44,
-        "word": " to"
-      },
-      {
-        "start": 134.44,
-        "end": 134.84,
-        "word": " turn"
-      },
-      {
-        "start": 134.84,
-        "end": 135.64,
-        "word": " on"
-      },
-      {
-        "start": 135.64,
-        "end": 136.1,
-        "word": " the"
-      },
-      {
-        "start": 136.1,
-        "end": 136.82,
-        "word": " beat"
-      },
-      {
-        "start": 136.82,
-        "end": 137.46,
-        "word": " I"
-      },
-      {
-        "start": 137.46,
-        "end": 137.72,
-        "word": " think"
-      },
-      {
-        "start": 137.72,
-        "end": 138.1,
+        "start": 131.38,
+        "end": 132.04,
         "word": " you"
       },
       {
-        "start": 138.1,
+        "start": 132.04,
+        "end": 132.64,
+        "word": " insist"
+      },
+      {
+        "start": 133.2,
+        "end": 133.8,
+        "word": " You"
+      },
+      {
+        "start": 133.8,
+        "end": 133.98,
+        "word": " know"
+      },
+      {
+        "start": 133.98,
+        "end": 134.22,
+        "word": " that"
+      },
+      {
+        "start": 134.22,
+        "end": 134.4,
+        "word": " I'm"
+      },
+      {
+        "start": 134.4,
+        "end": 134.88,
+        "word": " trying"
+      },
+      {
+        "start": 134.88,
+        "end": 135.16,
+        "word": " to"
+      },
+      {
+        "start": 135.16,
+        "end": 135.76,
+        "word": " be"
+      },
+      {
+        "start": 136.68,
+        "end": 137.44,
+        "word": " I"
+      },
+      {
+        "start": 137.44,
+        "end": 137.78,
+        "word": " think"
+      },
+      {
+        "start": 137.78,
+        "end": 138.12,
+        "word": " you"
+      },
+      {
+        "start": 138.12,
         "end": 138.46,
         "word": " said"
       },
       {
         "start": 138.46,
-        "end": 139.26,
-        "word": " it"
-      },
-      {
-        "start": 139.26,
-        "end": 139.5,
+        "end": 139.38,
         "word": " You"
       },
       {
-        "start": 139.5,
-        "end": 139.92,
-        "word": " wanna"
+        "start": 139.38,
+        "end": 139.84,
+        "word": " brought"
       },
       {
-        "start": 139.92,
+        "start": 139.84,
+        "end": 140.06,
+        "word": " a"
+      },
+      {
+        "start": 140.06,
         "end": 140.34,
-        "word": " find"
+        "word": " fine"
       },
       {
         "start": 140.34,
-        "end": 140.94,
-        "word": " me,"
+        "end": 141.4,
+        "word": " piece"
       },
       {
-        "start": 141.98,
-        "end": 141.98,
-        "word": " please"
+        "start": 141.4,
+        "end": 142.16,
+        "word": " You"
       },
       {
-        "start": 141.98,
-        "end": 142.32,
-        "word": " There's"
+        "start": 142.16,
+        "end": 142.38,
+        "word": " should"
       },
       {
-        "start": 142.32,
-        "end": 142.62,
-        "word": " nothing"
+        "start": 142.38,
+        "end": 142.68,
+        "word": " look"
       },
       {
-        "start": 142.62,
-        "end": 143.22,
+        "start": 142.68,
+        "end": 143.06,
         "word": " inside"
       },
       {
-        "start": 143.22,
-        "end": 143.74,
-        "word": " your"
+        "start": 143.06,
+        "end": 143.84,
+        "word": " You're"
       },
       {
-        "start": 143.74,
+        "start": 143.84,
+        "end": 144.22,
+        "word": " still"
+      },
+      {
+        "start": 144.22,
         "end": 144.68,
-        "word": " soul"
+        "word": " a"
       },
       {
         "start": 144.68,
-        "end": 145.3,
-        "word": " Only"
+        "end": 144.74,
+        "word": " boy"
       },
       {
-        "start": 145.3,
-        "end": 146.04,
-        "word": " one"
-      },
-      {
-        "start": 146.04,
-        "end": 146.7,
-        "word": " song,"
-      },
-      {
-        "start": 146.96,
-        "end": 147.82,
-        "word": " please"
-      },
-      {
-        "start": 147.82,
-        "end": 148.78,
+        "start": 144.74,
+        "end": 145.04,
         "word": " I"
       },
       {
-        "start": 148.78,
-        "end": 149.1,
+        "start": 145.04,
+        "end": 145.38,
         "word": " think"
       },
       {
-        "start": 149.1,
-        "end": 149.5,
-        "word": " it's"
-      },
-      {
-        "start": 149.5,
-        "end": 150.14,
-        "word": " special"
-      },
-      {
-        "start": 150.14,
-        "end": 151.54,
-        "word": " Don't"
-      },
-      {
-        "start": 151.54,
-        "end": 151.88,
+        "start": 145.38,
+        "end": 145.88,
         "word": " you"
       },
       {
-        "start": 151.88,
-        "end": 152.58,
-        "word": " love"
+        "start": 145.88,
+        "end": 146.14,
+        "word": " said"
       },
       {
-        "start": 152.58,
-        "end": 153.42,
-        "word": " baby"
-      },
-      {
-        "start": 153.42,
-        "end": 154.4,
+        "start": 146.14,
+        "end": 147.6,
         "word": " I"
       },
       {
-        "start": 154.4,
-        "end": 154.7,
+        "start": 147.6,
+        "end": 151.14,
         "word": " think"
       },
       {
-        "start": 154.7,
-        "end": 155.16,
-        "word": " it's"
+        "start": 151.14,
+        "end": 151.14,
+        "word": " you"
       },
       {
-        "start": 155.16,
-        "end": 155.72,
-        "word": " special"
+        "start": 151.14,
+        "end": 151.14,
+        "word": " said"
       },
       {
-        "start": 158.96,
-        "end": 160.08,
+        "start": 151.14,
+        "end": 151.58,
         "word": " I"
       },
       {
-        "start": 160.08,
-        "end": 160.34,
+        "start": 151.58,
+        "end": 151.74,
         "word": " think"
       },
       {
-        "start": 160.34,
-        "end": 160.66,
-        "word": " it's"
+        "start": 151.74,
+        "end": 151.98,
+        "word": " you"
       },
       {
-        "start": 160.66,
-        "end": 160.66,
-        "word": " special"
+        "start": 151.98,
+        "end": 152.5,
+        "word": " said"
       },
       {
-        "start": 160.66,
-        "end": 160.66,
+        "start": 152.5,
+        "end": 153.18,
+        "word": " Baby"
+      },
+      {
+        "start": 154.04,
+        "end": 154.42,
         "word": " I"
       },
       {
-        "start": 160.66,
-        "end": 160.66,
+        "start": 154.42,
+        "end": 154.78,
         "word": " think"
       },
       {
-        "start": 160.66,
-        "end": 160.92,
-        "word": " it's"
+        "start": 154.78,
+        "end": 155.02,
+        "word": " you"
       },
       {
-        "start": 160.92,
-        "end": 161.4,
-        "word": " special"
+        "start": 155.02,
+        "end": 155.46,
+        "word": " said"
+      },
+      {
+        "start": 157.86,
+        "end": 158.62,
+        "word": " I"
+      },
+      {
+        "start": 158.62,
+        "end": 159.38,
+        "word": " think"
+      },
+      {
+        "start": 159.38,
+        "end": 159.76,
+        "word": " you"
+      },
+      {
+        "start": 159.76,
+        "end": 159.76,
+        "word": " said"
+      },
+      {
+        "start": 159.76,
+        "end": 160.04,
+        "word": " I"
+      },
+      {
+        "start": 160.04,
+        "end": 160.5,
+        "word": " think"
+      },
+      {
+        "start": 160.5,
+        "end": 160.68,
+        "word": " you"
+      },
+      {
+        "start": 160.68,
+        "end": 161.06,
+        "word": " said"
       }
     ],
     "language": "en"
   },
-  "score": 0.7597382989431303,
+  "score": 0.7236957888120679,
   "sr": 44100,
   "path": "ui_out/vocals.wav"
 }
