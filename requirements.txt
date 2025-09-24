@@ -1,0 +1,25 @@
+
+# Core DSP & utils
+librosa==0.10.1
+soundfile==0.12.1
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+tqdm>=4.66.1
+typer>=0.9.0
+
+# Optional: better separation
+demucs==4.0.1 ; platform_system != "Windows"  # optional
+
+# ASR options (choose one; faster-whisper recommended)
+faster-whisper==1.0.1
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# Optional alignment helpers
+ctc-segmentation==1.7.4  # optional forced alignment path
+pyttsx3==2.90            # simple offline TTS for DTW proxy (quality varies)
+
+# UI
+streamlit>=1.36.0
+matplotlib>=3.7
