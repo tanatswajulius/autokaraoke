@@ -1,25 +1,38 @@
+# ---- Core DSP & utils ----
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+tqdm==4.66.5
+typer==0.12.5
 
-# Core DSP & utils
+# ---- librosa stack ----
 librosa==0.10.1
 soundfile==0.12.1
-numpy>=1.24
-scipy>=1.10
-scikit-learn>=1.3
-tqdm>=4.66.1
-typer>=0.9.0
+audioread==3.0.1
+soxr==0.3.7
+numba==0.59.1
+typing-extensions==4.12.2
+lazy-loader==0.4
 
-# Optional: better separation
-demucs==4.0.1 ; platform_system != "Windows"  # optional
+# ---- Optional: better separation ----
+demucs==4.0.1 ; platform_system != "Windows"
+openunmix==1.3.0
+einops==0.8.1
+julius==0.2.7
+lameenc==1.6.1
 
-# ASR options (choose one; faster-whisper recommended)
+# ---- ASR ----
 faster-whisper==1.0.1
-torch>=2.1.0
-torchaudio>=2.1.0
+av==11.0.0
 
-# Optional alignment helpers
-ctc-segmentation==1.7.4  # optional forced alignment path
-pyttsx3==2.90            # simple offline TTS for DTW proxy (quality varies)
+# ---- Torch (version-matched) ----
+torch==2.4.0
+torchaudio==2.4.0
 
-# UI
-streamlit>=1.36.0
-matplotlib>=3.7
+# ---- Optional helpers ----
+ctc-segmentation==1.7.4
+pyttsx3==2.90
+
+# ---- UI ----
+streamlit==1.36.0
+matplotlib==3.8.4
