@@ -102,3 +102,52 @@ def dtw_refine(
         out.append((start, end, part))
         cursor_frame = a_idx_end
     return out
+
+
+def words_or_segments_to_aligned(
+    words: List[Dict[str, Any]],
+    segments: List[Dict[str, Any]],
+    full_text: str,
+    total_dur: float,
+) -> List[Tuple[float, float, str]]:
+    """
+    Convert available ASR timing into aligned spans.
+    Priority:
+    1) word-level timestamps if present
+    2) segment-level timestamps, optionally subdivided by word tokens
+    3) fallback single span covering full duration
+    """
+    # 1) Words available: return as-is
+    if words:
+        return [
+            (
+                float(w.get("start", 0.0)),
+                float(w.get("end", float(w.get("start", 0.0)))),
+                str(w.get("word", "")).strip(),
+            )
+            for w in words
+            if str(w.get("word", "")).strip()
+        ]
+
+    # 2) Segments with text: split proportionally into tokens if possible
+    out: List[Tuple[float, float, str]] = []
+    for seg in segments or []:
+        text = str(seg.get("text", "")).strip()
+        if not text:
+            continue
+        s = float(seg.get("start", 0.0))
+        e = float(seg.get("end", s))
+        tokens = [t for t in text.split() if t.strip()]
+        if not tokens or e <= s:
+            out.append((s, e, text))
+            continue
+        span = (e - s) / len(tokens)
+        for i, tok in enumerate(tokens):
+            ts = s + i * span
+            te = s + (i + 1) * span
+            out.append((ts, te, tok))
+    if out:
+        return out
+
+    # 3) Fallback single span
+    return [(0.0, total_dur if total_dur > 0 else 0.0, full_text or "(no transcript)")]
