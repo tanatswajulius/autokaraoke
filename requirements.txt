@@ -19,9 +19,8 @@ demucs==4.0.1 ; platform_system != "Windows"
 torchaudio==2.4.0
 
 # ---- ASR ----
-openai-whisper==20231117
-# faster-whisper removed (pulls in av which needs pkg-config/ffmpeg)
-# av==11.0.0
+faster-whisper==1.0.1
+av==11.0.0
 
 # ---- Torch (version-matched) ----
 torch==2.4.0

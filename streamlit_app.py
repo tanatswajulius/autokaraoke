@@ -283,7 +283,7 @@ if uploaded is not None:
         res1, s1 = transcribe_and_score(
             to_mono(vy),
             vsr,
-            backend="openai-whisper",
+            backend="faster-whisper",
             model_size=asr_model,
         )
         best = {
@@ -299,7 +299,7 @@ if uploaded is not None:
             res2, s2 = transcribe_and_score(
                 to_mono(by),
                 bsr,
-                backend="openai-whisper",
+                backend="faster-whisper",
                 model_size=asr_model,
             )
             if s2 > s1:
