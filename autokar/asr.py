@@ -111,7 +111,7 @@ def _transcribe_openai_whisper(
 def transcribe_and_score(
     y: np.ndarray,
     sr: int,
-    backend: str = "faster-whisper",
+    backend: str = "openai-whisper",
     model_size: str = "small",
 ) -> Tuple[Dict[str, Any], float]:
     """Run ASR and return (result, score).

@@ -16,15 +16,13 @@ lazy-loader==0.4
 
 # ---- Separation (Demucs) ----
 demucs==4.0.1 ; platform_system != "Windows"
-torchaudio==2.4.0
+torchaudio==2.3.1
 
-# ---- ASR ----
-faster-whisper==1.0.1
-# av removed to avoid ffmpeg-dev build on Streamlit
+# ---- ASR (OpenAI Whisper) ----
+openai-whisper==20231117
 
-# ---- Torch (version-matched) ----
-torch==2.4.0
-# torchaudio==2.4.0  # not needed
+# ---- Torch (version-matched with Whisper & Demucs) ----
+torch==2.3.1
 
 # ---- Optional helpers ----
 # ctc-segmentation==1.7.4
